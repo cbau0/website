@@ -27,3 +27,15 @@
     Conecta y trabaja tus problemas con un grupo de personas experimentadas en Flutter.
   logo_src: community/logo-slack.png
   learn_more_link: https://bit.ly/FlutterDevsEnEspanol
+
+- name: FlutterES YouTube
+  description: >
+    Ve estos videos para aprender de desarrolladores de habla hispana mientras construyes con Flutter.
+  logo_src: community/logo-youtube.png
+  learn_more_link: https://www.youtube.com/c/FlutterenEspañol
+
+- name: FlutterES Discord
+  description: >
+    Habla con otros desarrolladores sobre todo lo relacionado a Flutter, y comparte recursos útiles.
+  logo_src: community/logo-discord.png
+  learn_more_link: https://discord.gg/DDTqvhcJD2
